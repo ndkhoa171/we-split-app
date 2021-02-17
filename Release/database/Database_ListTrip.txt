@@ -1,0 +1,244 @@
+7
+Thành Phố Bạc Liêu
+img/BL01.jpg
+10
+Hoài Nam - /img/Chuyen01Member1.jpg - 8498378928
+Red
+Hoài Thư - /img/Chuyen01Member5.jpg - 8498378932
+Black
+Quang Cảnh - /img/Member08.jpg - 8498378345
+Black
+Trung Nhật - /img/Member09.jpg - 8498378222
+Black
+Hoàng Sơn - /img/Member10.jpg - 8498376628
+Black
+Bích Ngọc - /img/Member11.jpg - 8499378765
+Black
+Bình An - /img/Member12.jpg - 8498371058
+Black
+Minh An - /img/Member13.jpg - 8498479345
+Black
+Gia Bảo - /img/Member14.jpg - 8491053222
+Black
+Quỳnh Nhi - /img/Member15.jpg - 8498334198
+Black
+4
+Cánh đồng quạt gió
+/img/CanhDongQuatGio01.jpg - /img/CanhDongQuatGio02.jpg - img/CanhDongQuatGio03.jpg - img/CanhDongQuatGio04.jpg
+Nhà Mát
+/img/NhaMat01.jpg - /img/NhaMat02.jpg - /img/NhaMat03.jpg - /img/NhaMat04.jpg 
+Nhà công tử Bạc Liêu
+img/NhaCongTuBL01.jpg - img/NhaCongTuBL02.jpg - img/NhaCongTuBL03.jpg
+Vườn chim Bạc Liêu
+img/SanChim01.jpg - img/SanChim02.jpg - img/SanChim03.jpg - img/SanChim04.jpg
+5
+Tiền phòng - 6000000
+Tiền ăn - 9000000
+Tiền xe - 3000000
+Tiền nước - 2000000
+Phụ phí - 1500000
+going
+Mũi né - Phan Thiết
+img/AvatarChuyen01.jpg
+5
+Hoài Nam - /img/Chuyen01Member1.jpg - 8498378928
+Red
+Ngọc An - /img/Chuyen01Member2.jpg - 8498378929
+Black
+Bảo Ngọc - /img/Chuyen01Member3.jpg - 8498378930
+Black
+Thiên Ân - /img/Chuyen01Member4.jpg - 8498378932
+Black
+Hoài Thư - /img/Chuyen01Member5.jpg - 8498378932
+Black
+4
+Bảo tàng Hồ Chí Minh
+/img/BaoTangHCM01.jpg - /img/BaoTangHCM02.jpg - /img/BaoTangHCM03.jpg
+Chợ Phan Thiết
+/img/ChoPT01.jpg - img/ChoPT02.jpg - img/ChoPT03.jpg
+Lầu Ông Hoàng
+img/LauOngHoang01.jpg - img/LauOngHoang02.png - img/LauOngHoang03.jpg
+Đồi Cát Đỏ
+img/DoiCatDo.jpg - img/DoiCatDo02.jpg - img/DoiCatDo03.jpg
+5
+Tiền phòng - 3000000
+Tiền ăn - 2000000
+Tiền xe - 1000000
+Tiền nước - 500000
+Phụ phí - 300000
+gone
+Biển Vũng Tàu
+img/VT01.jpg
+7
+Hoài Nam - /img/Chuyen01Member1.jpg - 8498378928
+Red
+Ngọc An - /img/Chuyen01Member2.jpg - 8498378929
+Black
+Bảo Ngọc - /img/Chuyen01Member3.jpg - 8498378930
+Black
+Tấn An - /img/Member06.jpg - 8494348229
+Black
+Mỹ anh - /img/Member07.jpg - 8493388999
+Black
+Quang Cảnh - /img/Member08.jpg - 8498378345
+Black
+Trung Nhật - /img/Member09.jpg - 8498378222
+Black
+4
+Biển Long Hải
+/img/BienLongHai01.png - /img/BienLongHai02.jpg - img/BienLongHai03.jpg - img/BienLongHai04.jpg
+Hải đăng Vũng Tàu
+/img/HaiDangVT01.jpg - img/HaiDangVT02.png - img/HaiDangVT03.jpg
+Khu đồi Con Heo
+img/DoiConHeo01.jpg - img/DoiConHeo02.jpg - img/DoiConHeo03.jpg
+Hòn Bà
+img/HonBa01.jpg - img/HonBa02.png - img/HonBa03.jpg
+5
+Tiền phòng - 5000000
+Tiền ăn - 4500000
+Tiền xe - 2000000
+Tiền nước - 1500000
+Phụ phí - 2000000
+gone
+Thành Phố Cần Thơ
+img/CT01.jpg
+9
+Hoài Thư - /img/Chuyen01Member5.jpg - 8498378932
+Red
+Quang Cảnh - /img/Member08.jpg - 8498378345
+Black
+Ngọc An - /img/Chuyen01Member2.jpg - 8498378929
+Black
+Bảo Ngọc - /img/Chuyen01Member3.jpg - 8498378930
+Black
+Thiên Ân - /img/Chuyen01Member4.jpg - 8498378932
+Black
+Bích Ngọc - /img/Member11.jpg - 8499378765
+Black
+Bình An - /img/Member12.jpg - 8498371058
+Black
+Gia Bảo - /img/Member14.jpg - 8491053222
+Black
+Quỳnh Nhi - /img/Member15.jpg - 8498334198
+Black
+3
+Chợ nổi Cái Răng
+/img/ChoNoiCaiRang01.jpg - /img/ChoNoiCaiRang02.jpg - img/ChoNoiCaiRang03.jpg - img/ChoNoiCaiRang04.jpg
+Bến Ninh Kiều
+/img/BenNinhKieu01.jpg - /img/BenNinhKieu02.jpg - /img/BenNinhKieu03.jpg - /img/BenNinhKieu04.jpg 
+Vườn Cò Bằng Lăng
+img/VuonCoBangLang01.jpg - img/VuonCoBangLang02.jpg - img/VuonCoBangLang03.jpg
+5
+Tiền phòng - 7000000
+Tiền ăn - 1.1E+07
+Tiền xe - 3000000
+Tiền nước - 1500000
+Phụ phí - 500000
+gone
+Thành Phố Huế
+img/Hue01.jpg
+11
+Quang Cảnh - /img/Member08.jpg - 8498378345
+Red
+Ngọc An - /img/Chuyen01Member2.jpg - 8498378929
+Black
+Bảo Ngọc - /img/Chuyen01Member3.jpg - 8498378930
+Black
+Thiên Ân - /img/Chuyen01Member4.jpg - 8498378932
+Black
+Bích Ngọc - /img/Member11.jpg - 8499378765
+Black
+Bình An - /img/Member12.jpg - 8498371058
+Black
+Gia Bảo - /img/Member14.jpg - 8491053222
+Black
+Quỳnh Nhi - /img/Member15.jpg - 8498334198
+Black
+Bình An - /img/Member12.jpg - 8498371058
+Black
+Gia Bảo - /img/Member14.jpg - 8491053222
+Black
+Quỳnh Nhi - /img/Member15.jpg - 8498334198
+Black
+4
+Đại Nội Huế
+/img/DaiNoiHue01.jpg - /img/DaiNoiHue02.jpg - img/DaiNoiHue.jpg - img/DaiNoiHue04.jpg
+Lăng Tự Đức
+/img/LangTuDuc01.jpg - /img/LangTuDuc02.jpg - /img/LangTuDuc03.jpg 
+Lăng Minh Mạng
+img/LangMinhMang01.jpg - img/LangMinhMang02.jpg - img/LangMinhMang03.jpg
+Chùa Thiên Mụ
+img/ChuaThienMu01.jpg - img/ChuaThienMu02.jpg - img/ChuaThienMu03.jpg
+5
+Tiền phòng - 1.2E+07
+Tiền ăn - 1.4E+07
+Tiền xe - 4500000
+Tiền nước - 2500000
+Phụ phí - 1500000
+gone
+Thành Phố Đà Lạt
+img/DaLat01.jpg
+8
+Ngọc An - /img/Chuyen01Member2.jpg - 8498378929
+Red
+Hoài Thư - /img/Chuyen01Member5.jpg - 8498378932
+Black
+Quang Cảnh - /img/Member08.jpg - 8498378345
+Black
+Trung Nhật - /img/Member09.jpg - 8498378222
+Black
+Hoàng Sơn - /img/Member10.jpg - 8498376628
+Black
+Bình An - /img/Member12.jpg - 8498371058
+Black
+Gia Bảo - /img/Member14.jpg - 8491053222
+Black
+Quỳnh Nhi - /img/Member15.jpg - 8498334198
+Black
+4
+Vườn hoa Đà Lạt
+/img/VuonHoa01.jpg - /img/VuonHoa02.jpg - img/VuonHoa.jpg - img/VuonHoa04.jpg
+Hồ Tuyền Lâm
+/img/HoTuyenLam01.jpg - /img/HoTuyenLam02.jpg - /img/HoTuyenLam03.jpg 
+Vườn thú Zoodoo
+img/VuonThu01.jpg - img/VuonThu02.png - img/VuonThu03.jpg
+Nhà ga Đà Lạt
+img/NhaGa01.jpg - img/NhaGa02.jpg - img/NhaGa03.jpg
+5
+Tiền phòng - 1E+07
+Tiền ăn - 1E+07
+Tiền xe - 3700000
+Tiền nước - 1600000
+Phụ phí - 800000
+gone
+Nha Trang
+img/NhaTrang01.jpg
+7
+Minh An - /img/Member13.jpg - 8498479345
+Red
+Ngọc An - /img/Chuyen01Member2.jpg - 8498378929
+Black
+Hoài Thư - /img/Chuyen01Member5.jpg - 8498378932
+Black
+Quang Cảnh - /img/Member08.jpg - 8498378345
+Black
+Bình An - /img/Member12.jpg - 8498371058
+Black
+Gia Bảo - /img/Member14.jpg - 8491053222
+Black
+Quỳnh Nhi - /img/Member15.jpg - 8498334198
+Black
+3
+Nhà thờ Núi
+/img/NhaThoNui01.jpg - /img/NhaThoNui02.jpg - /img/NhaThoNui03.jpg 
+Tháp Bà Po Nagar
+img/ThapBa01.jpg - img/ThapBa02.png - img/ThapBa03.jpg
+Suối Ba Hồ
+img/SuoiBaHo01.jpg - img/SuoiBaHo02.jpg - img/SuoiBaHo03.jpg
+5
+Tiền phòng - 6800000
+Tiền ăn - 8200000
+Tiền xe - 2400000
+Tiền nước - 900000
+Phụ phí - 650000
+gone

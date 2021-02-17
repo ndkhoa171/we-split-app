@@ -1,0 +1,50 @@
+﻿<Window x:Class="WeSplitApp.SplashScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeSplitApp"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Height="246"
+        Width="600"
+        Loaded="Window_Loaded"
+        ResizeMode="NoResize"
+        WindowStyle="None">
+    <Window.Resources>
+        <local:RelativeToAbsolutePathImageConverter x:Key="pathImage"></local:RelativeToAbsolutePathImageConverter>
+    </Window.Resources>
+    <Grid Height="240">
+        <Grid.Background>
+            <ImageBrush ImageSource="icon/bg.png"
+                        RenderOptions.BitmapScalingMode="HighQuality"
+                        Stretch="UniformToFill" />
+        </Grid.Background>
+        <TextBlock Text="{Binding data}"
+                   Name="Quote"
+                   FontSize="18"
+                   FontWeight="Bold"
+                   TextWrapping="Wrap"
+                   TextAlignment="Center"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Center"
+                   Width="416"
+                   Height="auto"
+                   Margin="0 60">
+        </TextBlock>
+
+        <StackPanel  VerticalAlignment="Bottom">
+            <CheckBox Content="Không hiện hộp thoại này mỗi khi khởi động"
+                      HorizontalAlignment="Center"
+                      Checked="CheckBox_Checked" />
+            <Button Name="buttonClose"
+                    IsDefault="True"
+                    Content="Đóng"
+                    Width="80"
+                    Margin="0 10 0 10"
+                    Click="Button_Close_Click"
+                    HorizontalAlignment="Center" />
+        </StackPanel>
+    </Grid>
+</Window>
+

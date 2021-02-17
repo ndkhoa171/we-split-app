@@ -1,0 +1,1225 @@
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\WeSplitApp.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\CreateJourneyScreen.g.cs
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\DetailScreen.g.cs
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\HomeScreen.g.cs
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\SearchScreen.g.cs
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\UserControlDetail_ListMember.g.cs
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\UserControlDetail_ListPlace.g.cs
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\UserControlHome_Introduce.g.cs
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\UserControlHome_OpenMenu.g.cs
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\UserControlHome_TripHasGone.g.cs
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\UserControlHome_TripIsGoing.g.cs
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\App.g.cs
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\WeSplitApp_MarkupCompile.cache
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\WeSplitApp_MarkupCompile.lref
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\App.baml
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\CreateJourneyScreen.baml
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\DetailScreen.baml
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\HomeScreen.baml
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\SearchScreen.baml
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\UserControlDetail_ListMember.baml
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\UserControlDetail_ListPlace.baml
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\UserControlHome_Introduce.baml
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\UserControlHome_OpenMenu.baml
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\UserControlHome_TripHasGone.baml
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\UserControlHome_TripIsGoing.baml
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\WeSplitApp.g.resources
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\WeSplitApp.Properties.Resources.resources
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\WeSplitApp.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\WeSplitApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\WeSplitApp.exe
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\WeSplitApp.pdb
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\img\AvatarChuyen01.jpg
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\img\Chuyen01DD1Anh1.jpg
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\img\Chuyen01DD1Anh2.jpg
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\img\Chuyen01DD1Anh3.jpg
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\img\Chuyen01DD2Anh1.jpg
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\img\Chuyen01DD2Anh2.jpg
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\img\Chuyen01DD3Anh1.jpg
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\img\Chuyen01DD3Anh2.jpg
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\img\Chuyen01DD3Anh3.jpg
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\img\Chuyen01Member1.jpg
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\img\Chuyen01Member2.jpg
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\WeSplitApp.exe.config
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\WeSplitApp.exe
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\WeSplitApp.pdb
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DELL\Downloads\WeSplitApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\WeSplitApp.csproj.Fody.CopyLocal.cache
+C:\Users\DELL\Downloads\WeSplitApp\obj\Debug\WeSplitApp.csproj.CopyComplete
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\AvatarChuyen01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Chuyen01Member1.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Chuyen01Member2.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\WeSplitApp.exe.config
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\WeSplitApp.exe
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\WeSplitApp.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\MaterialDesignColors.dll
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\MaterialDesignColors.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WeSplitApp.csprojAssemblyReference.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\CreateJourneyScreen.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\DetailScreen.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\HomeScreen.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\SearchScreen.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlDetail_ListMember.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlDetail_ListPlace.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlHome_Introduce.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlHome_OpenMenu.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlHome_TripHasGone.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlHome_TripIsGoing.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\App.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WeSplitApp_MarkupCompile.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WeSplitApp_MarkupCompile.lref
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\App.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\CreateJourneyScreen.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\DetailScreen.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\HomeScreen.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\SearchScreen.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlDetail_ListMember.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlDetail_ListPlace.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlHome_Introduce.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlHome_OpenMenu.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlHome_TripHasGone.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlHome_TripIsGoing.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WeSplitApp.g.resources
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WeSplitApp.Properties.Resources.resources
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WeSplitApp.csproj.GenerateResource.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WeSplitApp.csproj.CoreCompileInputs.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WeSplitApp.csproj.Fody.CopyLocal.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WeSplitApp.csproj.CopyComplete
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WeSplitApp.exe
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WeSplitApp.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Chuyen01Member3.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Chuyen01Member4.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Chuyen01Member5.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WindowAddImage.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WindowAddPlace.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WindowAddImage.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WindowAddPlace.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlTotalExpense.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\LiveCharts.dll
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\LiveCharts.Wpf.dll
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\LiveCharts.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\LiveCharts.xml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\LiveCharts.Wpf.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\LiveCharts.Wpf.xml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\UserControlTotalExpense.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Member06.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Member07.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Member08.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Member09.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Member10.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Member11.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Member12.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Member13.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Member14.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Member15.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\BaoTangHCM01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\BaoTangHCM02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\BaoTangHCM03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\LauOngHoang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\LauOngHoang02.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\LauOngHoang03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ChoPT01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ChoPT02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ChoPT03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\DoiCatDo.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\DoiCatDo02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\DoiCatDo03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\VT01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\BienLongHai01.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\BienLongHai02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\BienLongHai03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\BienLongHai04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\DoiConHeo01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\DoiConHeo02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\DoiConHeo03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\HaiDangVT01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\HaiDangVT02.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\HaiDangVT03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\HonBa01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\HonBa02.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\HonBa03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\BL01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\CanhDongQuatGio01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\CanhDongQuatGio03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\CanhDongQuatGio04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaCongTuBL01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaCongTuBL02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaCongTuBL03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaMat01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaMat02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaMat03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaMat04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\SanChim01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\SanChim02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\SanChim03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\SanChim04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\CanhDongQuatGio02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\BenNinhKieu01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\BenNinhKieu02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\BenNinhKieu03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\BenNinhKieu04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ChoNoiCaiRang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ChoNoiCaiRang02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ChoNoiCaiRang03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ChoNoiCaiRang04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\CT01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\VuonCoBangLang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\VuonCoBangLang02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\VuonCoBangLang03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ChuaThienMu01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ChuaThienMu02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ChuaThienMu03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\DaiNoiHue01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\DaiNoiHue02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\DaiNoiHue03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\DaiNoiHue04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\Hue01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\LangMinhMang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\LangMinhMang02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\LangMinhMang03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\LangTuDuc01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\LangTuDuc02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\LangTuDuc03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\DaLat01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\HoTuyenLam01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\HoTuyenLam02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\HoTuyenLam03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaGa01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaGa02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaGa03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\VuonHoa01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\VuonHoa02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\VuonHoa03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\VuonHoa04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\VuonThu01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\VuonThu02.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\VuonThu03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaThoNui01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaThoNui02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaThoNui03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\SuoiBaHo01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\SuoiBaHo02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\SuoiBaHo03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ThapBa01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ThapBa02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\ThapBa03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\bin\Debug\img\NhaTrang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WindowAddExpense.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WindowAddExpense.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WindowNewMember.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Thong\WeSplitApp\obj\Debug\WindowNewMember.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\AvatarChuyen01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Chuyen01Member1.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Chuyen01Member2.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Chuyen01Member3.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Chuyen01Member4.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Chuyen01Member5.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Member06.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Member07.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Member08.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Member09.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Member10.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Member11.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Member12.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Member13.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Member14.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Member15.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\BaoTangHCM01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\BaoTangHCM02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\BaoTangHCM03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\LauOngHoang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\LauOngHoang02.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\LauOngHoang03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ChoPT01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ChoPT02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ChoPT03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\DoiCatDo.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\DoiCatDo02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\DoiCatDo03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\VT01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\BienLongHai01.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\BienLongHai02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\BienLongHai03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\BienLongHai04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\DoiConHeo01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\DoiConHeo02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\DoiConHeo03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\HaiDangVT01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\HaiDangVT02.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\HaiDangVT03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\HonBa01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\HonBa02.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\HonBa03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\BL01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\CanhDongQuatGio01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\CanhDongQuatGio03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\CanhDongQuatGio04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaCongTuBL01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaCongTuBL02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaCongTuBL03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaMat01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaMat02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaMat03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaMat04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\SanChim01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\SanChim02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\SanChim03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\SanChim04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\CanhDongQuatGio02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\BenNinhKieu01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\BenNinhKieu02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\BenNinhKieu03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\BenNinhKieu04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ChoNoiCaiRang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ChoNoiCaiRang02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ChoNoiCaiRang03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ChoNoiCaiRang04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\CT01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\VuonCoBangLang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\VuonCoBangLang02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\VuonCoBangLang03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ChuaThienMu01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ChuaThienMu02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ChuaThienMu03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\DaiNoiHue01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\DaiNoiHue02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\DaiNoiHue03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\DaiNoiHue04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\Hue01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\LangMinhMang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\LangMinhMang02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\LangMinhMang03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\LangTuDuc01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\LangTuDuc02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\LangTuDuc03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\DaLat01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\HoTuyenLam01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\HoTuyenLam02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\HoTuyenLam03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaGa01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaGa02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaGa03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\VuonHoa01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\VuonHoa02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\VuonHoa03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\VuonHoa04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\VuonThu01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\VuonThu02.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\VuonThu03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaThoNui01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaThoNui02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaThoNui03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\SuoiBaHo01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\SuoiBaHo02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\SuoiBaHo03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ThapBa01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ThapBa02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\ThapBa03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\img\NhaTrang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\WeSplitApp.exe.config
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\WeSplitApp.exe
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\WeSplitApp.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\LiveCharts.dll
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\LiveCharts.Wpf.dll
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\MaterialDesignColors.dll
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\LiveCharts.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\LiveCharts.xml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\LiveCharts.Wpf.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\LiveCharts.Wpf.xml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\MaterialDesignColors.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WeSplitApp.csprojAssemblyReference.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\CreateJourneyScreen.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\DetailScreen.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\HomeScreen.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\SearchScreen.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlDetail_ListMember.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlDetail_ListPlace.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlHome_Introduce.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlHome_OpenMenu.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlHome_TripHasGone.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlHome_TripIsGoing.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlTotalExpense.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WindowAddExpense.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WindowAddImage.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WindowAddPlace.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WindowNewMember.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\App.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WeSplitApp_MarkupCompile.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WeSplitApp_MarkupCompile.lref
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\App.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\CreateJourneyScreen.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\DetailScreen.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\HomeScreen.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\SearchScreen.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlDetail_ListMember.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlDetail_ListPlace.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlHome_Introduce.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlHome_OpenMenu.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlHome_TripHasGone.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlHome_TripIsGoing.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\UserControlTotalExpense.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WindowAddExpense.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WindowAddImage.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WindowAddPlace.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WindowNewMember.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WeSplitApp.g.resources
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WeSplitApp.Properties.Resources.resources
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WeSplitApp.csproj.GenerateResource.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WeSplitApp.csproj.CoreCompileInputs.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WeSplitApp.csproj.Fody.CopyLocal.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WeSplitApp.csproj.CopyComplete
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WeSplitApp.exe
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\Đồ án bản hiện tại\WeSplitApp-17-07\obj\Debug\WeSplitApp.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\AvatarChuyen01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Chuyen01Member1.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Chuyen01Member2.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Chuyen01Member3.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Chuyen01Member4.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Chuyen01Member5.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Member06.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Member07.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Member08.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Member09.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Member10.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Member11.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Member12.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Member13.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Member14.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Member15.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\BaoTangHCM01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\BaoTangHCM02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\BaoTangHCM03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\LauOngHoang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\LauOngHoang02.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\LauOngHoang03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ChoPT01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ChoPT02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ChoPT03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\DoiCatDo.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\DoiCatDo02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\DoiCatDo03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\VT01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\BienLongHai01.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\BienLongHai02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\BienLongHai03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\BienLongHai04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\DoiConHeo01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\DoiConHeo02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\DoiConHeo03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\HaiDangVT01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\HaiDangVT02.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\HaiDangVT03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\HonBa01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\HonBa02.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\HonBa03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\BL01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\CanhDongQuatGio01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\CanhDongQuatGio03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\CanhDongQuatGio04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaCongTuBL01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaCongTuBL02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaCongTuBL03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaMat01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaMat02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaMat03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaMat04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\SanChim01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\SanChim02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\SanChim03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\SanChim04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\CanhDongQuatGio02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\BenNinhKieu01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\BenNinhKieu02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\BenNinhKieu03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\BenNinhKieu04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ChoNoiCaiRang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ChoNoiCaiRang02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ChoNoiCaiRang03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ChoNoiCaiRang04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\CT01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\VuonCoBangLang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\VuonCoBangLang02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\VuonCoBangLang03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ChuaThienMu01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ChuaThienMu02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ChuaThienMu03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\DaiNoiHue01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\DaiNoiHue02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\DaiNoiHue03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\DaiNoiHue04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\Hue01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\LangMinhMang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\LangMinhMang02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\LangMinhMang03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\LangTuDuc01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\LangTuDuc02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\LangTuDuc03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\DaLat01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\HoTuyenLam01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\HoTuyenLam02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\HoTuyenLam03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaGa01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaGa02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaGa03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\VuonHoa01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\VuonHoa02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\VuonHoa03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\VuonHoa04.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\VuonThu01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\VuonThu02.png
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\VuonThu03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaThoNui01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaThoNui02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaThoNui03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\SuoiBaHo01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\SuoiBaHo02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\SuoiBaHo03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ThapBa01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ThapBa02.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\ThapBa03.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\img\NhaTrang01.jpg
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\WeSplitApp.exe.config
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\WeSplitApp.exe
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\WeSplitApp.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\LiveCharts.dll
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\LiveCharts.Wpf.dll
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\MaterialDesignColors.dll
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\LiveCharts.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\LiveCharts.xml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\LiveCharts.Wpf.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\LiveCharts.Wpf.xml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\MaterialDesignColors.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WeSplitApp.csprojAssemblyReference.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\CreateJourneyScreen.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\DetailScreen.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\HomeScreen.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\SearchScreen.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlDetail_ListMember.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlDetail_ListPlace.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlHome_Introduce.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlHome_OpenMenu.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlHome_TripHasGone.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlHome_TripIsGoing.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlTotalExpense.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WindowAddExpense.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WindowAddImage.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WindowAddPlace.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WindowNewMember.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\App.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WeSplitApp_MarkupCompile.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WeSplitApp_MarkupCompile.lref
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\App.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\CreateJourneyScreen.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\DetailScreen.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\HomeScreen.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\SearchScreen.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlDetail_ListMember.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlDetail_ListPlace.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlHome_Introduce.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlHome_OpenMenu.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlHome_TripHasGone.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlHome_TripIsGoing.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\UserControlTotalExpense.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WindowAddExpense.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WindowAddImage.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WindowAddPlace.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WindowNewMember.baml
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WeSplitApp.g.resources
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WeSplitApp.Properties.Resources.resources
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WeSplitApp.csproj.GenerateResource.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WeSplitApp.csproj.CoreCompileInputs.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WeSplitApp.csproj.Fody.CopyLocal.cache
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WeSplitApp.csproj.CopyComplete
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WeSplitApp.exe
+D:\Học kì II, 2019-2020\Lập trình Windows\Đồ án 2\WeSplitApp18.07\obj\Debug\WeSplitApp.pdb
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\AvatarChuyen01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Chuyen01Member1.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Chuyen01Member2.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Chuyen01Member3.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Chuyen01Member4.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Chuyen01Member5.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Member06.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Member07.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Member08.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Member09.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Member10.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Member11.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Member12.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Member13.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Member14.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Member15.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\BaoTangHCM01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\BaoTangHCM02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\BaoTangHCM03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\LauOngHoang01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\LauOngHoang02.png
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\LauOngHoang03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ChoPT01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ChoPT02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ChoPT03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\DoiCatDo.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\DoiCatDo02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\DoiCatDo03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\VT01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\BienLongHai01.png
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\BienLongHai02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\BienLongHai03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\BienLongHai04.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\DoiConHeo01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\DoiConHeo02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\DoiConHeo03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\HaiDangVT01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\HaiDangVT02.png
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\HaiDangVT03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\HonBa01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\HonBa02.png
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\HonBa03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\BL01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\CanhDongQuatGio01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\CanhDongQuatGio03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\CanhDongQuatGio04.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaCongTuBL01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaCongTuBL02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaCongTuBL03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaMat01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaMat02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaMat03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaMat04.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\SanChim01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\SanChim02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\SanChim03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\SanChim04.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\CanhDongQuatGio02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\BenNinhKieu01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\BenNinhKieu02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\BenNinhKieu03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\BenNinhKieu04.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ChoNoiCaiRang01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ChoNoiCaiRang02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ChoNoiCaiRang03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ChoNoiCaiRang04.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\CT01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\VuonCoBangLang01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\VuonCoBangLang02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\VuonCoBangLang03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ChuaThienMu01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ChuaThienMu02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ChuaThienMu03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\DaiNoiHue01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\DaiNoiHue02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\DaiNoiHue03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\DaiNoiHue04.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\Hue01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\LangMinhMang01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\LangMinhMang02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\LangMinhMang03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\LangTuDuc01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\LangTuDuc02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\LangTuDuc03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\DaLat01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\HoTuyenLam01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\HoTuyenLam02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\HoTuyenLam03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaGa01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaGa02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaGa03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\VuonHoa01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\VuonHoa02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\VuonHoa03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\VuonHoa04.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\VuonThu01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\VuonThu02.png
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\VuonThu03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaThoNui01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaThoNui02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaThoNui03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\SuoiBaHo01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\SuoiBaHo02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\SuoiBaHo03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ThapBa01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ThapBa02.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\ThapBa03.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\img\NhaTrang01.jpg
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\WeSplitApp.exe.config
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\WeSplitApp.exe
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\WeSplitApp.pdb
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\LiveCharts.dll
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\MaterialDesignColors.dll
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\LiveCharts.pdb
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\LiveCharts.xml
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\MaterialDesignColors.pdb
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\dev\Downloads\WeSplitApp19-07\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WeSplitApp.csprojAssemblyReference.cache
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\CreateJourneyScreen.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\DetailScreen.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\HomeScreen.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\SearchScreen.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlDetail_ListMember.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlDetail_ListPlace.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlHome_Introduce.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlHome_OpenMenu.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlHome_TripHasGone.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlHome_TripIsGoing.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlTotalExpense.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WindowAddExpense.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WindowAddImage.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WindowAddPlace.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WindowNewMember.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\App.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WeSplitApp_MarkupCompile.cache
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WeSplitApp_MarkupCompile.lref
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\App.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\CreateJourneyScreen.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\DetailScreen.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\HomeScreen.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\SearchScreen.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlDetail_ListMember.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlDetail_ListPlace.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlHome_Introduce.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlHome_OpenMenu.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlHome_TripHasGone.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlHome_TripIsGoing.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UserControlTotalExpense.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WindowAddExpense.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WindowAddImage.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WindowAddPlace.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WindowNewMember.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WeSplitApp.g.resources
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WeSplitApp.Properties.Resources.resources
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WeSplitApp.csproj.GenerateResource.cache
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WeSplitApp.csproj.CoreCompileInputs.cache
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WeSplitApp.csproj.Fody.CopyLocal.cache
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WeSplitApp.csproj.CopyComplete
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WeSplitApp.exe
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\WeSplitApp.pdb
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\SplashScreen.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\SplashScreen.baml
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UpdateJourneyScreen.g.cs
+C:\Users\dev\Downloads\WeSplitApp19-07\obj\Debug\UpdateJourneyScreen.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\AvatarChuyen01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\BaoTangHCM01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\BaoTangHCM02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\BaoTangHCM03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\BenNinhKieu01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\BenNinhKieu02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\BenNinhKieu03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\BenNinhKieu04.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\BienLongHai01.png
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\BienLongHai02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\BienLongHai03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\BienLongHai04.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\BL01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\CanhDongQuatGio01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\CanhDongQuatGio02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\CanhDongQuatGio03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\CanhDongQuatGio04.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ChoNoiCaiRang01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ChoNoiCaiRang02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ChoNoiCaiRang03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ChoNoiCaiRang04.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ChoPT01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ChoPT02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ChoPT03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ChuaThienMu01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ChuaThienMu02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ChuaThienMu03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Chuyen01Member1.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Chuyen01Member2.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Chuyen01Member3.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Chuyen01Member4.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Chuyen01Member5.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\CT01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\DaiNoiHue01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\DaiNoiHue02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\DaiNoiHue03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\DaiNoiHue04.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\DaLat01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\DoiCatDo.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\DoiCatDo02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\DoiCatDo03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\DoiConHeo01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\DoiConHeo02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\DoiConHeo03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\HaiDangVT01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\HaiDangVT02.png
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\HaiDangVT03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\HonBa01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\HonBa02.png
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\HonBa03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\HoTuyenLam01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\HoTuyenLam02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\HoTuyenLam03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Hue01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\LangMinhMang01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\LangMinhMang02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\LangMinhMang03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\LangTuDuc01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\LangTuDuc02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\LangTuDuc03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\LauOngHoang01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\LauOngHoang02.png
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\LauOngHoang03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Member06.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Member07.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Member08.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Member09.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Member10.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Member11.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Member12.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Member13.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Member14.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\Member15.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaCongTuBL01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaCongTuBL02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaCongTuBL03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaGa01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaGa02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaGa03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaMat01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaMat02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaMat03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaMat04.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaThoNui01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaThoNui02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaThoNui03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\NhaTrang01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\SanChim01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\SanChim02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\SanChim03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\SanChim04.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\SuoiBaHo01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\SuoiBaHo02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\SuoiBaHo03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ThapBa01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ThapBa02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\ThapBa03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\VT01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\VuonCoBangLang01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\VuonCoBangLang02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\VuonCoBangLang03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\VuonHoa01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\VuonHoa02.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\VuonHoa03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\VuonHoa04.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\VuonThu01.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\VuonThu02.png
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\img\VuonThu03.jpg
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\WeSplitApp.exe.config
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\WeSplitApp.exe
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\WeSplitApp.pdb
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\LiveCharts.dll
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\MaterialDesignColors.dll
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\LiveCharts.pdb
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\LiveCharts.xml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WeSplitApp.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\CreateJourneyScreen.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UpdateJourneyScreen.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\HomeScreen.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\SearchScreen.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\SplashScreen.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlUpdate_ListMember.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlUpdate_ListPlace.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlHome_Introduce.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlHome_OpenMenu.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlHome_TripHasGone.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlHome_TripIsGoing.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlUpdate_TotalExpense.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WindowAddExpense.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WindowAddImage.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WindowAddPlace.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WindowNewMember.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\App.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WeSplitApp_MarkupCompile.cache
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WeSplitApp_MarkupCompile.lref
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\App.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\CreateJourneyScreen.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UpdateJourneyScreen.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\HomeScreen.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\SearchScreen.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\SplashScreen.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlUpdate_ListMember.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlUpdate_ListPlace.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlHome_Introduce.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlHome_OpenMenu.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlHome_TripHasGone.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlHome_TripIsGoing.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\UserControlUpdate_TotalExpense.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WindowAddExpense.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WindowAddImage.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WindowAddPlace.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WindowNewMember.baml
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WeSplitApp.g.resources
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WeSplitApp.Properties.Resources.resources
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WeSplitApp.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WeSplitApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WeSplitApp.csproj.Fody.CopyLocal.cache
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WeSplitApp.csproj.CopyComplete
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WeSplitApp.exe
+C:\Users\DELL\Downloads\DoAnLTW1\WeSplitApp_v19.07\obj\Debug\WeSplitApp.pdb
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\AvatarChuyen01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\BaoTangHCM01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\BaoTangHCM02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\BaoTangHCM03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\BenNinhKieu01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\BenNinhKieu02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\BenNinhKieu03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\BenNinhKieu04.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\BienLongHai01.png
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\BienLongHai02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\BienLongHai03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\BienLongHai04.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\BL01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\CanhDongQuatGio01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\CanhDongQuatGio02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\CanhDongQuatGio03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\CanhDongQuatGio04.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ChoNoiCaiRang01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ChoNoiCaiRang02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ChoNoiCaiRang03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ChoNoiCaiRang04.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ChoPT01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ChoPT02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ChoPT03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ChuaThienMu01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ChuaThienMu02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ChuaThienMu03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Chuyen01Member1.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Chuyen01Member2.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Chuyen01Member3.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Chuyen01Member4.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Chuyen01Member5.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\CT01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\DaiNoiHue01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\DaiNoiHue02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\DaiNoiHue03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\DaiNoiHue04.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\DaLat01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\DoiCatDo.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\DoiCatDo02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\DoiCatDo03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\DoiConHeo01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\DoiConHeo02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\DoiConHeo03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\HaiDangVT01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\HaiDangVT02.png
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\HaiDangVT03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\HonBa01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\HonBa02.png
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\HonBa03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\HoTuyenLam01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\HoTuyenLam02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\HoTuyenLam03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Hue01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\LangMinhMang01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\LangMinhMang02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\LangMinhMang03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\LangTuDuc01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\LangTuDuc02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\LangTuDuc03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\LauOngHoang01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\LauOngHoang02.png
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\LauOngHoang03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Member06.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Member07.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Member08.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Member09.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Member10.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Member11.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Member12.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Member13.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Member14.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\Member15.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaCongTuBL01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaCongTuBL02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaCongTuBL03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaGa01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaGa02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaGa03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaMat01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaMat02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaMat03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaMat04.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaThoNui01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaThoNui02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaThoNui03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\NhaTrang01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\SanChim01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\SanChim02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\SanChim03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\SanChim04.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\SuoiBaHo01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\SuoiBaHo02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\SuoiBaHo03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ThapBa01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ThapBa02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\ThapBa03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\VT01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\VuonCoBangLang01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\VuonCoBangLang02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\VuonCoBangLang03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\VuonHoa01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\VuonHoa02.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\VuonHoa03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\VuonHoa04.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\VuonThu01.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\VuonThu02.png
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\img\VuonThu03.jpg
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\WeSplitApp.exe.config
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\WeSplitApp.exe
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\WeSplitApp.pdb
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\LiveCharts.dll
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\MaterialDesignColors.dll
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\LiveCharts.pdb
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\LiveCharts.xml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\MaterialDesignColors.pdb
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WeSplitApp.csprojAssemblyReference.cache
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\CreateJourneyScreen.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UpdateJourneyScreen.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\HomeScreen.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\SearchScreen.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\SplashScreen.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlUpdate_ListMember.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlUpdate_ListPlace.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlHome_Introduce.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlHome_OpenMenu.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlHome_TripHasGone.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlHome_TripIsGoing.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlUpdate_TotalExpense.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WindowAddExpense.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WindowAddImage.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WindowAddPlace.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WindowNewMember.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\App.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WeSplitApp_MarkupCompile.cache
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WeSplitApp_MarkupCompile.lref
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\App.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\CreateJourneyScreen.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UpdateJourneyScreen.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\HomeScreen.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\SearchScreen.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\SplashScreen.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlUpdate_ListMember.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlUpdate_ListPlace.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlHome_Introduce.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlHome_OpenMenu.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlHome_TripHasGone.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlHome_TripIsGoing.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\UserControlUpdate_TotalExpense.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WindowAddExpense.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WindowAddImage.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WindowAddPlace.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WindowNewMember.baml
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WeSplitApp.g.resources
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WeSplitApp.Properties.Resources.resources
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WeSplitApp.csproj.GenerateResource.cache
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WeSplitApp.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WeSplitApp.csproj.Fody.CopyLocal.cache
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WeSplitApp.csproj.CopyComplete
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WeSplitApp.exe
+C:\Users\dev\Documents\Visual Studio 2019\Project\WeSplitApp\Source Code\obj\Debug\WeSplitApp.pdb
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\AvatarChuyen01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\BaoTangHCM01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\BaoTangHCM02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\BaoTangHCM03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\BenNinhKieu01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\BenNinhKieu02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\BenNinhKieu03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\BenNinhKieu04.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\BienLongHai01.png
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\BienLongHai02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\BienLongHai03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\BienLongHai04.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\BL01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\CanhDongQuatGio01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\CanhDongQuatGio02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\CanhDongQuatGio03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\CanhDongQuatGio04.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ChoNoiCaiRang01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ChoNoiCaiRang02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ChoNoiCaiRang03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ChoNoiCaiRang04.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ChoPT01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ChoPT02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ChoPT03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ChuaThienMu01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ChuaThienMu02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ChuaThienMu03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Chuyen01Member1.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Chuyen01Member2.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Chuyen01Member3.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Chuyen01Member4.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Chuyen01Member5.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\CT01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\DaiNoiHue01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\DaiNoiHue02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\DaiNoiHue03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\DaiNoiHue04.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\DaLat01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\DoiCatDo.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\DoiCatDo02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\DoiCatDo03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\DoiConHeo01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\DoiConHeo02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\DoiConHeo03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\HaiDangVT01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\HaiDangVT02.png
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\HaiDangVT03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\HonBa01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\HonBa02.png
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\HonBa03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\HoTuyenLam01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\HoTuyenLam02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\HoTuyenLam03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Hue01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\LangMinhMang01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\LangMinhMang02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\LangMinhMang03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\LangTuDuc01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\LangTuDuc02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\LangTuDuc03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\LauOngHoang01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\LauOngHoang02.png
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\LauOngHoang03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Member06.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Member07.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Member08.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Member09.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Member10.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Member11.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Member12.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Member13.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Member14.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\Member15.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaCongTuBL01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaCongTuBL02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaCongTuBL03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaGa01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaGa02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaGa03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaMat01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaMat02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaMat03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaMat04.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaThoNui01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaThoNui02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaThoNui03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\NhaTrang01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\SanChim01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\SanChim02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\SanChim03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\SanChim04.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\SuoiBaHo01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\SuoiBaHo02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\SuoiBaHo03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ThapBa01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ThapBa02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\ThapBa03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\VT01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\VuonCoBangLang01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\VuonCoBangLang02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\VuonCoBangLang03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\VuonHoa01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\VuonHoa02.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\VuonHoa03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\VuonHoa04.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\VuonThu01.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\VuonThu02.png
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\img\VuonThu03.jpg
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\WeSplitApp.exe.config
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\WeSplitApp.exe
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\WeSplitApp.pdb
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\LiveCharts.dll
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\MaterialDesignColors.dll
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\LiveCharts.pdb
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\LiveCharts.xml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\MaterialDesignColors.pdb
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WeSplitApp.csprojAssemblyReference.cache
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\CreateJourneyScreen.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UpdateJourneyScreen.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\HomeScreen.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\SearchScreen.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\SplashScreen.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlUpdate_ListMember.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlUpdate_ListPlace.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlHome_Introduce.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlHome_OpenMenu.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlHome_TripHasGone.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlHome_TripIsGoing.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlUpdate_TotalExpense.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WindowAddExpense.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WindowAddImage.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WindowAddPlace.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WindowNewMember.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\App.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WeSplitApp_MarkupCompile.cache
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WeSplitApp_MarkupCompile.lref
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\App.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\CreateJourneyScreen.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UpdateJourneyScreen.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\HomeScreen.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\SearchScreen.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\SplashScreen.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlUpdate_ListMember.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlUpdate_ListPlace.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlHome_Introduce.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlHome_OpenMenu.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlHome_TripHasGone.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlHome_TripIsGoing.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\UserControlUpdate_TotalExpense.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WindowAddExpense.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WindowAddImage.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WindowAddPlace.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WindowNewMember.baml
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WeSplitApp.g.resources
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WeSplitApp.Properties.Resources.resources
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WeSplitApp.csproj.GenerateResource.cache
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WeSplitApp.csproj.CoreCompileInputs.cache
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WeSplitApp.csproj.Fody.CopyLocal.cache
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WeSplitApp.csproj.CopyComplete
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WeSplitApp.exe
+C:\Users\dev\Google Drive\HCMUS\Lập trình Windows\WeSplitApp\Source Code\obj\Debug\WeSplitApp.pdb

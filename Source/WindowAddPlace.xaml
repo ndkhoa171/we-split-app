@@ -1,0 +1,78 @@
+﻿<Window x:Class="WeSplitApp.WindowAddPlace"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeSplitApp"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="WindowAddPlace"
+        Height="225.591"
+        Width="740"
+        ResizeMode="NoResize"
+        Loaded="Window_Loaded">
+    <Window.Resources>
+        <!--VALIDATION-->
+        <ControlTemplate x:Key="validationTemplate">
+            <StackPanel Orientation="Horizontal">
+                <Border BorderBrush="Red"
+                        BorderThickness="2"
+                        CornerRadius="2"
+                        Height="22">
+                    <AdornedElementPlaceholder />
+                </Border>
+                <materialDesign:PackIcon Kind="Error"
+                                         Foreground="Red"
+                                         Margin="-25 0"
+                                         Width="20"
+                                         Height="20"
+                                         VerticalAlignment="Center" />
+            </StackPanel>
+        </ControlTemplate>
+
+        <Style x:Key="textBoxError"
+               TargetType="{x:Type TextBox}">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError"
+                         Value="True">
+                    <Setter Property="ToolTip"
+                            Value="{Binding RelativeSource={x:Static RelativeSource.Self},
+                            Path=(Validation.Errors)[0].ErrorContent}">
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Canvas>
+        <Label Canvas.Left="151"
+               FontSize="15"
+               Canvas.Top="64">Tên địa điểm</Label>
+        <TextBox Width="310"
+                 Name="nameplace"
+                 FontSize="14"
+                 Canvas.Left="248"
+                 Canvas.Top="64"
+                 Validation.ErrorTemplate="{StaticResource validationTemplate}"
+                 Style="{StaticResource textBoxError}" Height="26">
+            <TextBox.Text>
+                <Binding Path="Name"
+                         UpdateSourceTrigger="PropertyChanged">
+                    <Binding.ValidationRules>
+                        <local:TripNameRule min="1"
+                                            max="30" />
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <Button Content="Thêm"
+                IsDefault="True"
+                Click="Ok"
+                Canvas.Left="475"
+                Canvas.Top="144"></Button>
+        <Button Content="Hủy"
+                IsCancel="True"
+                Click="Cancle"
+                Canvas.Left="591"
+                Canvas.Top="144"></Button>
+    </Canvas>
+</Window>

@@ -1,0 +1,79 @@
+﻿<UserControl x:Class="WeSplitApp.UserControlHome_TripIsGoing"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:WeSplitApp"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+             Width="auto"
+             Height="auto"
+             Loaded="UserControl_Loaded">
+    <UserControl.Resources>
+        <!--CONVERTER-->
+        <local:RelativeToAbsolutePathImageConverter x:Key="pathImage" />
+    </UserControl.Resources>
+
+    <materialDesign:TransitioningContent x:Name="TrainsitionigContentSlide"                                         
+                                         OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.6}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="250"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <!--DANH SÁCH CHUYẾN ĐANG ĐI-->
+            <ListView Name="dataListView"
+                      Width="750"
+                      Grid.Row="0"
+                      Grid.Column="0"
+                      ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                      SelectionChanged="dataListView_SelectionChanged">
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel />
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Width="200">
+                            <StackPanel.ContextMenu>
+                                <ContextMenu>
+                                    <MenuItem Header="Đã đi"
+                                              Click="Click_Has_Gone">
+                                        <MenuItem.Icon>
+                                            <materialDesign:PackIcon Kind="CheckCircleOutline" />
+                                        </MenuItem.Icon>
+                                    </MenuItem>
+                                </ContextMenu>
+                            </StackPanel.ContextMenu>
+                            <Image Source="{Binding Avatar,Converter={StaticResource pathImage}}"
+                                   VerticalAlignment="Top"
+                                   Stretch="Fill"
+                                   Width="200"
+                                   Height="200">
+                            </Image>
+                            <StackPanel VerticalAlignment="Center">
+                                <TextBlock Text="{Binding Name}"
+                                           FontSize="18"
+                                           TextWrapping="Wrap"
+                                           FontFamily="Times New Roman bold">
+                                </TextBlock>
+                            </StackPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <!--MỞ USERCONTROLHOME_INTRODUCE-->
+            <Grid Grid.Column="1"
+                  x:Name="Grid_Introduce"
+                  Margin="0 50 0 0">
+            </Grid>
+        </Grid>
+    </materialDesign:TransitioningContent>
+</UserControl>

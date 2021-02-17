@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="WeSplitApp.UserControlUpdate_ListMember"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:WeSplitApp"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+             Height="auto"
+             Width="auto"
+             Loaded="UserControl_Loaded">
+    <UserControl.Resources>
+        <local:RelativeToAbsolutePathImageConverter x:Key="pathImage" />
+    </UserControl.Resources>
+    <materialDesign:TransitioningContent x:Name="TrainsitionigContentSlide"
+                                         OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.6}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <ListView Name="dataListView"
+                      Grid.Row="1"
+                      ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                      ScrollViewer.VerticalScrollBarVisibility="Hidden">
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel />
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Width="100">
+                            <Image Source="{Binding Avatar,Converter={StaticResource pathImage}}"
+                                   VerticalAlignment="Top"
+                                   Stretch="Fill"
+                                   Height="100">
+                            </Image>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Name}"
+                                           FontSize="15"
+                                           Margin="5"
+                                           HorizontalAlignment="Left"
+                                           TextWrapping="Wrap"
+                                           Foreground="White"
+                                           FontFamily="Times New Roman">
+                                </TextBlock>
+                                <materialDesign:PackIcon Kind="Account"
+                                                         Margin="5 0 0 0"
+                                                         Height="25"
+                                                         VerticalAlignment="Center"
+                                                         Foreground="{Binding Leader}" />
+                            </StackPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <materialDesign:Badged Grid.Row="0"
+                                   Width="150"
+                                   VerticalAlignment="Bottom"
+                                   Badge="{materialDesign:PackIcon AccountPlusOutline}"
+                                   BadgeColorZoneMode="Accent">
+                <Button Click="ButtonAddNewMember"
+                        Width="150">
+                    Thêm thành viên
+                </Button>
+            </materialDesign:Badged>
+        </Grid>
+    </materialDesign:TransitioningContent>
+</UserControl>
+    

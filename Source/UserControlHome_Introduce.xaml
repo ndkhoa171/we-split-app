@@ -1,0 +1,122 @@
+﻿<UserControl x:Class="WeSplitApp.UserControlHome_Introduce"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:WeSplitApp"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+             Width="auto"
+             Height="auto"
+             Loaded="UserControl_Loaded">
+    <UserControl.Resources>
+        <!--CONVERTER-->
+        <local:RelativeToAbsolutePathImageConverter x:Key="pathImage" />
+    </UserControl.Resources>
+
+    <materialDesign:TransitioningContent x:Name="TrainsitionigContentSlide"
+                                         OpeningEffect="{materialDesign:TransitionEffect SlideInFromRight, Duration=0:0:0.6}">
+        <Grid>
+            <TextBlock Text="{Binding Name}"
+                       Foreground="White"
+                       FontSize="20"
+                       Width="100"
+                       Margin="10 0 10 0"
+                       HorizontalAlignment="Left"
+                       TextWrapping="Wrap"
+                       FontFamily="Nirmala UI Semilight"
+                       VerticalAlignment="Top" />
+            <Rectangle Height="100"
+                       Width="100"
+                       VerticalAlignment="Top"
+                       HorizontalAlignment="Right"
+                       Margin="0 0 10 0"
+                       Stroke="White">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding Avatar,Converter={StaticResource pathImage}}"
+                                Stretch="UniformToFill" />
+                </Rectangle.Fill>
+            </Rectangle>
+
+            <Grid Margin="0 130 0 0"
+                  HorizontalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="60" />
+                    <RowDefinition Height="60" />
+
+                </Grid.RowDefinitions>
+
+                <StackPanel Grid.Row="0"
+                            Grid.Column="0"
+                            HorizontalAlignment="Left">
+                    <TextBlock Text="SỐ THÀNH VIÊN"
+                               VerticalAlignment="Bottom"
+                               Foreground="#FFFBFBFB" />
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Name="textblockNumberMember"
+                                   VerticalAlignment="Top"
+                                   Foreground="#FFFBFBFB" />
+                        <materialDesign:PackIcon Kind="People"
+                                                 Margin="5 0 0 0"
+                                                 Foreground="#FFFBFBFB" />
+                    </StackPanel>
+                </StackPanel>
+
+                <StackPanel Grid.Row="0"
+                            Grid.Column="1"
+                            HorizontalAlignment="Left">
+                    <TextBlock Text="SỐ ĐỊA ĐIỂM"
+                               VerticalAlignment="Bottom"
+                               Foreground="#FFFBFBFB" />
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Name="textblockNumberPlace"
+                                   VerticalAlignment="Top"
+                                   Foreground="#FFFBFBFB" />
+                        <materialDesign:PackIcon Kind="Place"
+                                                 Margin="5 0 0 0"
+                                                 Foreground="#FFFBFBFB" />
+                    </StackPanel>
+                </StackPanel>
+
+                <StackPanel Grid.Row="1"
+                            Grid.Column="1"
+                            HorizontalAlignment="Left">
+                    <TextBlock Text="TỔNG CHI"
+                               VerticalAlignment="Bottom"
+                               Foreground="#FFFBFBFB" />
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Name="texblockTotalExpense"
+                                   VerticalAlignment="Top"
+                                   Foreground="#FFFBFBFB" />
+                        <materialDesign:PackIcon Kind="Money"
+                                                 Margin="5 0 0 0"
+                                                 Foreground="#FFFBFBFB" />
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+            <materialDesign:Badged Margin="10 0 0 210"
+                                   VerticalAlignment="Bottom"
+                                   Badge="{materialDesign:PackIcon PlusCircleOutline}"
+                                   BadgeColorZoneMode="Accent">
+                <Button Click="Button_Add_Expense">
+                    Thêm chi tiêu
+                </Button>
+            </materialDesign:Badged>
+            <materialDesign:Badged Width="200"
+                                   Margin="15,0,0,30"
+                                   VerticalAlignment="Bottom"
+                                   Badge="{materialDesign:PackIcon Kind=Details}"
+                                   BadgeColorZoneMode="Accent">
+                <Button Click="Button_Detail_Click"
+                        Width="200">
+                    Xem chi tiết
+                </Button>
+            </materialDesign:Badged>
+        </Grid>
+    </materialDesign:TransitioningContent>
+
+</UserControl>

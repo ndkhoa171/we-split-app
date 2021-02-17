@@ -1,0 +1,76 @@
+﻿<UserControl x:Class="WeSplitApp.UserControlUpdate_ListPlace"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:WeSplitApp"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+             Height="auto"
+             Width="auto"
+             Loaded="UserControl_Loaded">
+    <UserControl.Resources>
+        <local:RelativeToAbsolutePathImageConverter x:Key="pathImage" />
+    </UserControl.Resources>
+
+    <materialDesign:TransitioningContent x:Name="TrainsitionigContentSlide"
+                                         OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.6}">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="480"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="1"
+                        Margin="0 10 0 0">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:Badged Badge="{materialDesign:PackIcon ImageAutoAdjust}"
+                                           BadgeColorZoneMode="Accent"
+                                           Margin="0 0 10 0">
+                        <Button Click="AddImage">
+                            Thêm ảnh
+                        </Button>
+                    </materialDesign:Badged>
+                    <Label></Label>
+                    <materialDesign:Badged Badge="{materialDesign:PackIcon MapMarker}"
+                                           BadgeColorZoneMode="Accent">
+                        <Button Click="AddPlace">
+                            Thêm lộ trình
+                        </Button>
+                    </materialDesign:Badged>
+                </StackPanel>
+                <ListBox Name="listViewPlace"
+                         Margin="0 10">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Name}"
+                                           Foreground="White"
+                                           FontSize="20"
+                                           HorizontalAlignment="Center"
+                                           TextWrapping="Wrap"
+                                           FontFamily="Nirmala UI Semilight"
+                                           VerticalAlignment="Center" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </StackPanel>
+            <ListView Name="listViewImage"
+                      Grid.Column="0"
+                      ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                      ScrollViewer.VerticalScrollBarVisibility="Hidden">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="{Binding Converter={StaticResource pathImage}}"
+                                   Stretch="UniformToFill"
+                                   Height="auto"
+                                   Width="470">
+                            </Image>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+    </materialDesign:TransitioningContent>
+</UserControl>
